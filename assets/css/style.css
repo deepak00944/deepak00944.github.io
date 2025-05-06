@@ -516,6 +516,11 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 240px;
+  scale:1;
+}
+
+.card.medium:hover .card-image{
+  scale:.9;
 }
 
 .card-action a.btn-floating {
