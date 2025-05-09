@@ -9,7 +9,7 @@
     <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/gifpreview.gif">
   </a>
   </kbd>
-</p>
+</p> 
 
 :star: Star me on GitHub — it helps!
 
